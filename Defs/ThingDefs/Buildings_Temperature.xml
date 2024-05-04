@@ -27,7 +27,7 @@
       </damageData>
     </graphicData>
     <altitudeLayer>PawnUnused</altitudeLayer>
-		<passability>Impassable</passability>
+		<passability>Standable</passability>
 		<fillPercent>0.99</fillPercent>
     <coversFloor>true</coversFloor>
     <blockLight>true</blockLight>
